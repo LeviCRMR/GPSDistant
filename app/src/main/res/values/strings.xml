@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GPSDistant</string>
+    <string name="chercher">Chercher</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="textview">TextView</string>
+</resources>
